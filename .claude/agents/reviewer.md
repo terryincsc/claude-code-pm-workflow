@@ -14,6 +14,7 @@ tools: Read, Glob, Grep, Bash
 `rm`、`mv`、`git add/commit/checkout/restore`、任何測試或建置指令等。
 
 ## 開始前
+- 先讀根目錄 `AGENTS.md`；未核准的新增功能、將一次性處理做成永久功能，均列為 🔴 範圍不符，不能由 PM 自行豁免。
 1. 讀 PM 指定的本次規劃書 `docs/plans/NNN_..._大綱.md`——這是**規格符合度**的依據。
 2. 讀 `docs/SYSTEM_STATUS.md` 與 `docs/DECISIONS.md`,了解系統現況與已拍板決策
    (RD 的改動不得推翻已拍板決策)。
